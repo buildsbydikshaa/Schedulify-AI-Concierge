@@ -77,9 +77,11 @@ This design ensures smooth execution of **multi-step workflows** without requiri
 
 ## Workflow Diagrams & Images
 
+![Alt text](./images/Scheduling.png)
+
+
 ![Alt text](./images/ProcessWorkFlow.png)
 
-![Alt text](./images/Scheduling.png)
 
 ![Alt text](./images/Sessionmemory.png) 
 
