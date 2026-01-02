@@ -75,16 +75,39 @@ This design ensures smooth execution of **multi-step workflows** without requiri
 
 ---
 
-## Workflow Diagrams & Images
+## Workflow Diagrams
 
-![Alt text](./images/Scheduling.png)
+<h2 align="center"><b>Agent Workflow Demonstration</b></h2>
 
+<h4 align="center"><b>Scheduling Decision Logic</b></h4>
 
-![Alt text](./images/ProcessWorkFlow.png)
+<div align="center">
+  <!-- Scheduling Decision Logic -->
+  <img src="./images/Scheduling.png"
+       alt="Scheduling Decision Logic"
+       width="60%"
+       style="border-radius: 8px; margin-bottom: 20px;" />
+</div>
 
+<h4 align="center"><b>Process Execution Workflow</b></h4>
 
-![Alt text](./images/Sessionmemory.png) 
+<div align="center">
+  <!-- Process Execution Workflow -->
+  <img src="./images/ProcessWorkFlow.png"
+       alt="Process Execution Workflow"
+       width="60%"
+       style="border-radius: 8px; margin: 25px 0;" />
+</div>
 
+<h4 align="center"><b>Session and State Memory</b></h4>
+
+<div align="center">
+  <!-- Session and State Memory -->
+  <img src="./images/Sessionmemory.png"
+       alt="Session and State Memory"
+       width="60%"
+       style="border-radius: 8px; margin-top: 20px;" />
+</div>
 ---
 
 ## Current Status
